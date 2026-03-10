@@ -9,3 +9,7 @@ MAX_QUANTITY = 500
 BOX_SIZE = 25
 DATE_FORMAT = "%d/%m/%Y"
 
+# Lists used to store program data
+hire_list = []
+raffle_list = []
+
